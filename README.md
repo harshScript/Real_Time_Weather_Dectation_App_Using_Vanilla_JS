@@ -28,4 +28,4 @@ Privacy-Focused: WeatherSense prioritizes user privacy and does not collect any 
 Stay informed, stay prepared, and stay ahead of the weather with WeatherSense. Download the app now and experience the convenience of having accurate weather data for any location, all within the palm of your hand. WeatherSense is your ultimate weather companion, ensuring you are ready for any weather condition that comes your way.
 
 
-ACCES THE APP FROM THE HERE - https://harshscript.github.io/Real_Time_Weather_Dectation_App_Using_Vanilla_JS/
+GO TO APP - https://harshscript.github.io/Real_Time_Weather_Dectation_App_Using_Vanilla_JS/
